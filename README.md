@@ -3,7 +3,7 @@
 CSS style cubic easing for haxe. A port of https://github.com/gre/bezier-easing
 
 [(click to open)
-![](https://raw.githubusercontent.com/thomasuster/cubic-bezier/master/img/example.png)
+![](https://raw.githubusercontent.com/thomasuster/cubic-bezier/master/img/example360.png)
 ](http://gre.github.io/bezier-easing-editor/example/)
 
 ### Getting Started
