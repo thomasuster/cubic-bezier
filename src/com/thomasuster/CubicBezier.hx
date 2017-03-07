@@ -1,6 +1,14 @@
 package com.thomasuster;
 
-//https://github.com/gre/bezier-easing/blob/master/src/index.js
+/**
+ * https://github.com/gre/bezier-easing
+ * BezierEasing - use bezier curve for transition easing function
+ * by Gaëtan Renaudeau 2014 - 2015 – MIT License
+ * 
+ * https://github.com/thomasuster/cubic-bezier
+ * haxe port by Thomas Uster 
+ */
+    
 import haxe.io.Error;
 import haxe.ds.Vector;
 class CubicBezier {
