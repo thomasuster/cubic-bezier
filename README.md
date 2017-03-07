@@ -8,7 +8,7 @@ CSS style cubic easing for haxe. A port of https://github.com/gre/bezier-easing
 
 ### Getting Started
 
-1.
+1. 
   ```
 	git clone git@github.com:thomasuster/cubic-bezier.git
     haxelib dev cubic-bezier cubic-bezier
