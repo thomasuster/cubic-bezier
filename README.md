@@ -17,7 +17,9 @@ CSS style cubic easing for haxe. A port of https://github.com/gre/bezier-easing
 
 1. Plug them in!
 ```haxe
-var cb:CubicBezier = new CubicBezier(0.00, 0.55, 1.00, 0.11);
+var cb:CubicBezier = new CubicBezier(0.00, 0.55, 1.00, 0.11); //The 4 values
+
+//Do something with your ease function! 
 var time:Float = 0.2;
 var percentage:Float = cb.ease(time);
 trace(percentage);
