@@ -2,6 +2,10 @@
 
 CSS style cubic easing for haxe. A port of https://github.com/gre/bezier-easing
 
+[(click to open)
+![]()
+](http://gre.github.io/bezier-easing-editor/example/)
+
 ### Getting Started
 
 1. Clone it
