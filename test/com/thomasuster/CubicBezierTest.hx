@@ -7,5 +7,6 @@ class CubicBezierTest {
     public function shouldNotExplode():Void {
         var cubic:CubicBezier = new CubicBezier(0,0,1,1);
         MatcherAssert.assertThat(cubic.ease(0), IsEqual.equalTo(0));
+        MatcherAssert.assertThat(cubic.ease(0.5), IsEqual.equalTo(0.5));
     }
 }
