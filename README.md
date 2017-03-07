@@ -11,6 +11,9 @@ CSS style cubic easing for haxe. A port of https://github.com/gre/bezier-easing
 1. 
   ```
 	git clone git@github.com:thomasuster/cubic-bezier.git
+  ```
+1. 
+  ```
     haxelib dev cubic-bezier cubic-bezier
   ```
 1. Use the visual editor to find the 4 ease values you want
